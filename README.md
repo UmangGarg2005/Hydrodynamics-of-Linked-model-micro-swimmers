@@ -1,5 +1,4 @@
 # Hydrodynamics-of-Linked-model-micro-swimmers
-# Study of Mechanisms Leading to the Locomotion of Linked Micro-swimmers
 
 ## Introduction
 
@@ -25,11 +24,15 @@ In macroscopic swimming, inertia plays a key role in locomotion. However, in the
 - **Objective:** Investigate the role of hydrodynamic interactions.
 - **Findings:** Net displacement achieved, confirming theoretical models. The configuration and deformation mechanisms significantly impact locomotion.
 
-## Key Findings
+## Key Findings and Impact
 
-- **Asymmetry in resting lengths:** Greater asymmetry leads to more significant displacement.
-- **State contributions:** Most contracted states within the deformation cycle contribute the most to net displacement.
-- **Orientation:** The swimmer’s orientation does not affect locomotion; only the deformation mechanism does.
+- **Asymmetry in Resting Lengths:** Greater asymmetry leads to more significant displacement. This insight is crucial for designing efficient micro-swimmers.
+- **State Contributions:** Most contracted states within the deformation cycle contribute the most to net displacement. This understanding can be applied to optimize the motion patterns of artificial micro-swimmers.
+- **Orientation Independence:** The swimmer’s orientation does not affect locomotion; only the deformation mechanism does, simplifying design constraints.
+
+### Practical Applications
+- **Biomedical Engineering:** The findings on Oseen interactions and deformation mechanisms can enhance the design of microbots for targeted drug delivery, potentially leading to more effective and efficient treatments.
+- **Robotic Design:** The insights gained from this study can be applied to develop small-scale robots for various industrial applications, where precise control and efficient movement are essential.
 
 ## Future Work
 
